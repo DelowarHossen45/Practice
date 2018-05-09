@@ -13,6 +13,11 @@ void EBRAHIM()
 {
     cout<<"EBRAHiM"<<endl;
 }
+
+void HELLO()
+{
+    cout<<"COLLABORATION"<<endl;
+}
 int main()
 {
 	int a,b;
