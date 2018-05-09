@@ -24,7 +24,6 @@ int main()
 	b=factorial(a);
 	cout<<b<<endl;
 	COLA();
-	cout<<"Welcome All friends in our program";
 	EBRAHIM();
 	return 0;
 }
