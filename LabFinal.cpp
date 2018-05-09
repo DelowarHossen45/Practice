@@ -9,23 +9,19 @@ int factorial(int n)
 	}
 	return sum;
 }
+
 void EBRAHIM()
 {
     cout<<"EBRAHiM"<<endl;
 }
 
-void HELLO()
-{
-    cout<<"COLLABORATION"<<endl;
-}
 int main()
 {
 	int a,b;
 	cin>>a;
 	b=factorial(a);
 	cout<<b<<endl;
-
+	COLA();
 	EBRAHIM();
-
 	return 0;
 }
