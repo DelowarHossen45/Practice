@@ -9,12 +9,18 @@ int factorial(int n)
 	}
 	return sum;
 }
+void EBRAHIM()
+{
+    cout<<"EBRAHiM"<<endl;
+}
 int main()
 {
 	int a,b;
 	cin>>a;
 	b=factorial(a);
 	cout<<b<<endl;
-	
-	cout<<"Welcome All friends in our program";
+
+	EBRAHIM();
+
+	return 0;
 }
