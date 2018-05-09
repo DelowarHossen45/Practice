@@ -12,6 +12,7 @@ int factorial(int n)
 void EBRAHIM()
 {
     cout<<"EBRAHiM"<<endl;
+    cout<<"Conflict"<<endl;
 }
 
 int main()
