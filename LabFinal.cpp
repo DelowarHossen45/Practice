@@ -21,7 +21,6 @@ int main()
 	cin>>a;
 	b=factorial(a);
 	cout<<b<<endl;
-	COLA();
 	EBRAHIM();
 	return 0;
 }
