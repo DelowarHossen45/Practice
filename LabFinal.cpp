@@ -9,7 +9,6 @@ int factorial(int n)
 	}
 	return sum;
 }
-
 void EBRAHIM()
 {
     cout<<"EBRAHiM"<<endl;
