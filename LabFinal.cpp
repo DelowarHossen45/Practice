@@ -13,6 +13,10 @@ void COLA()
 {
     cout<<"Colaboration"<<endl;
 }
+void EBRAHIM()
+{
+    cout<<"EBRAHiM"<<endl;
+}
 int main()
 {
 	int a,b;
@@ -21,4 +25,6 @@ int main()
 	cout<<b<<endl;
 	COLA();
 	cout<<"Welcome All friends in our program";
+	EBRAHIM();
+	return 0;
 }
