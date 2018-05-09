@@ -9,12 +9,16 @@ int factorial(int n)
 	}
 	return sum;
 }
+void COLA()
+{
+    cout<<"Colaboration"<<endl;
+}
 int main()
 {
 	int a,b;
 	cin>>a;
 	b=factorial(a);
 	cout<<b<<endl;
-	
+	COLA();
 	cout<<"Welcome All friends in our program";
 }
